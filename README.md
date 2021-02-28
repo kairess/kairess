@@ -1,6 +1,6 @@
 ## Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I ❤️ code, Python and anything **CREATIVE**✨
+I❤️ code, Python and anything **CREATIVE**✨
 
 [![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-빵형의%20개발도상국-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
 ![](https://komarev.com/ghpvc/?username=kairess)
