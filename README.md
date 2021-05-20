@@ -32,9 +32,10 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 한국디지털미디어고등학교 머신러닝 전공UP 프로그램 강사 (2021)
 - [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
-- 한국디지털미디어고등학교 비즈쿨 AI 캠프 강연 (2020)
+- 한국디지털미디어고등학교 비즈쿨 AI 캠프 강사 (2020)
 - [미래산업과학고등학교 컴퓨터특허과 강연](https://youtu.be/midsD2401Uk?t=12) (2020)
 - 현대 모비스 자동화 및 인공지능 특강 (2020)
 - 비트캠프 인공지능 멘토 (2019)
