@@ -32,6 +32,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 한국표준과학연구원 머신러닝 튜터 (2021)
 - 한국디지털미디어고등학교 머신러닝 전공UP 프로그램 강사 (2021)
 - [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
