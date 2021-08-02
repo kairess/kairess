@@ -32,6 +32,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- AI프렌즈 세미나 - [빵형의 개발도상국 유튜버가 되기까지](https://youtu.be/-szp1ml3oLA) (2021)
 - 서울강서양천교육청 AI-UP 연수 강사 (2021)
 - 강원대학교(삼척캠퍼스) 정보통신공학부 인공지능 기술 강연 (2021)
 - 한국표준과학연구원 머신러닝 튜터 (2021)
