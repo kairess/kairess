@@ -33,6 +33,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🔥 Latest Courses
 
 - 대전교육정보원 AI원데이클래스 역량강화연수 특별 강연 (2021)
+- [PyTorch로 시작하는 딥러닝](https://spartacodingclub.kr/online/pytorch_dl) (2021)
 - 한국교원대학교 창의교육거점센터 핵심교원 직무연수 AI 강사 (2021)
 - AI프렌즈 세미나 - [빵형의 개발도상국 유튜버가 되기까지](https://youtu.be/-szp1ml3oLA) (2021)
 - 서울강서양천교육청 AI-UP 연수 강사 (2021)
