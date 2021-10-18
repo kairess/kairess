@@ -32,6 +32,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 원광대 AI아카데미 AI장단기 강좌 - [AI를 활용한 제스처 인식 원리 및 구현](https://www.youtube.com/playlist?list=PL-xmlFOn6TUIQ6xOBFDT8SCTwNjRir2SY) (2021)
 - 대전교육정보원 AI원데이클래스 역량강화연수 특별 강연 (2021)
 - [PyTorch로 시작하는 딥러닝](https://spartacodingclub.kr/online/pytorch_dl) (2021)
 - 한국교원대학교 창의교육거점센터 핵심교원 직무연수 AI 강사 (2021)
