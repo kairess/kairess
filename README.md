@@ -32,6 +32,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
 - 강원대학교(삼척캠퍼스) 수소기반그린에너지 특성화 AI 특강 (Nov 2021)
 - 창원여자고등학교 AI 클래스 특강 (Oct 2021)
 - 원광대 AI아카데미 AI장단기 강좌 - [AI를 활용한 제스처 인식 원리 및 구현](https://www.youtube.com/playlist?list=PL-xmlFOn6TUIQ6xOBFDT8SCTwNjRir2SY) (Oct 2021)
