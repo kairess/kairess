@@ -24,14 +24,22 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 - 🏢 I'm currently working at **[The Matrix](https://www.m47rix.com)**
 - 🌍 YouTuber [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
-- ⚙️ I love to create creative A.I. solutions
+- ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 🌱 Learning developing hardwares and serial communication using Python
-- 🎄 Woodworking beginner
 - 💉 Surprise: I'm a huge fan of Bloodborne and From Software games. Fear the old blood.
+
+
+## 📱 Social Activities
+
+- 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+- [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서
+- [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
+
 
 ## 🔥 Latest Courses
 
+- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
+- AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
 - [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
 - 강원대학교(삼척캠퍼스) 수소기반그린에너지 특성화 AI 특강 (Nov 2021)
