@@ -15,6 +15,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - Backend Web Development
 - Growth Hacking
 
+
 ## 🤐 Programming Languages
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -32,14 +33,20 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📱 Social Activities
 
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
-- [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서
+- AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
+- [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021 - Feb 2022)
+
+
+## 🙋🏻 Mentoring Programs
+
+- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022)
+- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
+- 비트캠프 인공지능 멘토 (2019)
 
 
 ## 🔥 Latest Courses
 
-- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
-- AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
 - [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
 - 강원대학교(삼척캠퍼스) 수소기반그린에너지 특성화 AI 특강 (Nov 2021)
@@ -58,6 +65,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 한국디지털미디어고등학교 비즈쿨 AI 캠프 강사 (2020)
 - [미래산업과학고등학교 컴퓨터특허과 강연](https://youtu.be/midsD2401Uk?t=12) (2020)
 - 현대 모비스 자동화 및 인공지능 특강 (2020)
-- 비트캠프 인공지능 멘토 (2019)
+
 
 [![kairess's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairess&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/kairess)
