@@ -39,6 +39,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
 - [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022)
 - 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
@@ -47,12 +48,13 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
-- [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 1타 강사 (Mar 2022 - Apr 2022)
+- 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
+- [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022 - Apr 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
 - [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
 - 강원대학교(삼척캠퍼스) 수소기반그린에너지 특성화 AI 특강 (Nov 2021)
 - 창원여자고등학교 AI 클래스 특강 (Oct 2021)
-- 원광대 AI아카데미 AI장단기 강좌 - [AI를 활용한 제스처 인식 원리 및 구현](https://www.youtube.com/playlist?list=PL-xmlFOn6TUIQ6xOBFDT8SCTwNjRir2SY) (Oct 2021)
+- 원광대학교 AI아카데미 AI장단기 강좌 - [AI를 활용한 제스처 인식 원리 및 구현](https://www.youtube.com/playlist?list=PL-xmlFOn6TUIQ6xOBFDT8SCTwNjRir2SY) (Oct 2021)
 - 대전교육정보원 AI원데이클래스 역량강화연수 특별 강연 (Aug 2021)
 - [PyTorch로 시작하는 딥러닝](https://spartacodingclub.kr/online/pytorch_dl) (Aug 2021)
 - 한국교원대학교 창의교육거점센터 핵심교원 직무연수 AI 강사 (Aug 2021)
