@@ -48,6 +48,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2021)
 - 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
 - [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022 - Apr 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
