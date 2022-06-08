@@ -40,7 +40,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🙋🏻 Mentoring Programs
 
 - AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
-- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022)
+- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-Present)
 - 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
 - 비트캠프 인공지능 멘토 (2019)
@@ -48,7 +48,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
-- AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2021)
+- 대전교육정보원 대덕연구개발특구연계 AI교육 창의적 체험교실 AI 전문영역 전문가 - 대덕고등학교, 동방고등학교 (Jun 2022)
+- AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2022)
 - 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
 - [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022 - Apr 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
