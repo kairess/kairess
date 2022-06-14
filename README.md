@@ -48,6 +48,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 한국교원대학교 창의교육거점센터 핵심교원 직무연수 AI/피지컬컴퓨팅 특강 (Jun 2022)
 - 대전교육정보원 대덕연구개발특구연계 AI교육 창의적 체험교실 AI 전문영역 전문가 - 대덕고등학교, 동방고등학교 (Jun 2022)
 - AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2022)
 - 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
