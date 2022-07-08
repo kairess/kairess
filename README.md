@@ -1,4 +1,4 @@
-# Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 I❤️ code, Python and anything **CREATIVE**✨
 
@@ -33,6 +33,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📱 Social Activities
 
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+- 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
 - AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
 - [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021 - Feb 2022)
 
