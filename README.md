@@ -24,7 +24,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📘 Bio
 
 - 🏢 I'm currently working at **[The Matrix](https://www.m47rix.com)**
-- 한국교원대/충남대 AI융합전공 겸임강사
+- 한국교원대학교 AI융합전공대학원 겸임강사
+- 충남대학교 디지털물산업인공지능융합전공 겸임강사
 - 🌍 YouTuber [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
