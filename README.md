@@ -42,6 +42,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 국립광주과학관 인공지능 탐구활동 성과발표회 평가위원 (Oct 2022)
 - 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022 - Oct 2022)
 - 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-Present)
 - AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
