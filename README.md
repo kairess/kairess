@@ -56,6 +56,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 원광대학교 AI장단기 강사 (Nov 2022)
 - 대전정보문화산업진흥원 2022 충청권 인공지능 주간 원포인트 클래스 특강 - 나는 어떤 포켓몬을 닮았을까 (카이스트 영재교육원) (Oct 2022)
 - 한국콘텐츠진흥원 2022 인공지능 연계 콘텐츠 창작 인재 대상 AI 특강 (Oct 2022)
 - 국가과학기술인력개발원(KIRD) 이미지 데이터 분석 과정 (Aug 2022-Sep 2022)
@@ -63,7 +64,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 한국교원대학교 창의교육거점센터 핵심교원 직무연수 AI/피지컬컴퓨팅 특강 (Jun 2022)
 - 대전교육정보원 대덕연구개발특구연계 AI교육 창의적 체험교실 AI 전문영역 전문가 - 대덕고등학교, 동방고등학교 (Jun 2022)
 - AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2022)
-- 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
+- 원광대학교 AI장단기 강사 (Apr 2022-May 2022)
 - [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022-Apr 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
 - [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
