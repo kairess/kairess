@@ -37,7 +37,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
 - 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
 - AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
-- [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021 - Feb 2022)
+- [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021-Feb 2022)
 
 
 ## 🙋🏻 Mentoring Programs
@@ -45,7 +45,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 광주정보문화산업진흥원 인공지능 콘텐츠 융합 창작랩(AICL) 멘토 (Oct 2022)
 - 광주정보문화산업진흥원 세상의 경계를 허무는 AI+콘텐츠 아이디어 공모전 심사위원 (Oct 2022)
 - 국립광주과학관 인공지능 탐구활동 성과발표회 평가위원 (Oct 2022)
-- 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022 - Oct 2022)
+- 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022-Oct 2022)
 - 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-Present)
 - AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
 - [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-Present)
@@ -64,7 +64,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 대전교육정보원 대덕연구개발특구연계 AI교육 창의적 체험교실 AI 전문영역 전문가 - 대덕고등학교, 동방고등학교 (Jun 2022)
 - AI프렌즈 세미나 - [디지털 생검 플렛폼을 위한 첨단 의료기기와 AI의 만남 - AI 솔루션 파트](https://youtu.be/42H-J4LuSnQ) (May 2022)
 - 원광대학교 AI장단기 강사 (Apr 2022 - May 2022)
-- [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022 - Apr 2022)
+- [한국원자력연구원](https://www.kaeri.re.kr) AI미니석사과정 교수 (Mar 2022-Apr 2022)
 - [SQI소프트](http://sqisoft.com) 머신러닝 강사 (Dec 2021)
 - [Google Developer Groups, DevFest Daegu 2021](https://gdg.community.dev/events/details/google-gdg-daegu-presents-devfest-daegu-2021/) Speaker (Nov 2021)
 - 강원대학교(삼척캠퍼스) 수소기반그린에너지 특성화 AI 특강 (Nov 2021)
