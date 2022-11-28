@@ -35,6 +35,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📱 Social Activities
 
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+- AI똑똑 패널 출연 - [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A)
 - 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
 - AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
 - [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021-Feb 2022)
@@ -57,6 +58,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 신한은행 전직원 디지털 역량강화 연수 (Nov 2022-Present)
 - 원광대학교 AI장단기 강사 (Nov 2022)
 - 대전정보문화산업진흥원 2022 충청권 인공지능 주간 원포인트 클래스 특강 - 나는 어떤 포켓몬을 닮았을까 (카이스트 영재교육원) (Oct 2022)
 - 한국콘텐츠진흥원 2022 인공지능 연계 콘텐츠 창작 인재 대상 AI 특강 (Oct 2022)
