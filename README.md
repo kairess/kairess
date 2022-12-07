@@ -58,6 +58,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
 - 신한은행 전직원 디지털 역량강화 연수 (Nov 2022-Present)
 - 강원대학교(삼척캠퍼스) 수소 에너지 데이터 기반 시계열 데이터 분석 특강 (Nov 2022)
 - 원광대학교 AI장단기 강사 (Nov 2022)
