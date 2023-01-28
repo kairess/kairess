@@ -35,7 +35,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📱 Social Activities
 
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
-- AI똑똑 패널 출연 - [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A)
+- [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
+- AI똑똑 패널 출연 - [AI 외주 프로젝트 천기누설](https://youtu.be/gyQ9d60KEMc), [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A), [3화](https://youtu.be/eITuFsvyAA0)
 - 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
 - AI프렌즈 [회원사 인터뷰](https://youtu.be/sRQtnrjjFNg) (Jan 2022)
 - [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021-Feb 2022)
@@ -58,6 +59,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 패스트캠퍼스 [빵형의 수학 없이 뽀개는 인공지능 입문](https://fastcampus.co.kr/data_online_bbang2) (Dec 2022-Present)
 - 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
 - 신한은행 전직원 디지털 역량강화 연수 (Nov 2022-Present)
 - 강원대학교(삼척캠퍼스) 수소 에너지 데이터 기반 시계열 데이터 분석 특강 (Nov 2022)
