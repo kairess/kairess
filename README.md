@@ -36,7 +36,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 - 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
-- [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
 - [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
 - AI똑똑 패널 출연 - [AI 외주 프로젝트 천기누설](https://youtu.be/gyQ9d60KEMc), [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A), [3화](https://youtu.be/eITuFsvyAA0)
 - 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
@@ -46,6 +45,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
 - 한국농수산식품유통공사 농산물 가격 변동률 예측 AI 경진대회 본선 멘토 (Oct 2022)
 - 광주정보문화산업진흥원 인공지능 콘텐츠 융합 창작랩(AICL) 멘토 (Oct 2022)
 - 광주정보문화산업진흥원 세상의 경계를 허무는 AI+콘텐츠 아이디어 공모전 심사위원 (Oct 2022)
