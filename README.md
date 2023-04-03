@@ -62,6 +62,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- [주식회사 상화](https://www.sangwha.com) 전직원 AI 역량강화연수 - 최신 생성 AI 소개 및 가능성 탐구
 - 패스트캠퍼스 [빵형의 수학 없이 뽀개는 인공지능 입문](https://fastcampus.co.kr/data_online_bbang2) (Dec 2022-Present)
 - 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
 - 신한은행 전직원 디지털 역량강화 연수 (Nov 2022-Present)
