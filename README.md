@@ -34,7 +34,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
-- 🌍 YouTube [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+- AI Insight Talk (ep.1) [ChatGPT와 같은 생성 AI의 한계는 어디까지?](https://www.onoffmix.com/event/273954) (Apr 2023)
 - [사이언스슬램D](https://www.youtube.com/@ScienceSlamD) 연사 - ChatGPT를 키워드로 알아보는 인공지능 이야기 @세종과학예술영재학교, 국가과학기술연구회(NST), 기초과학연구원(IBS), (주)대덕넷 (Mar 2023)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 - [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
@@ -62,6 +62,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Courses
 
+- 연세대학교 공학대학원 최신 생성AI 세미나 (Apr 2023)
+- 용인시 공무원 ChatGPT 업무활용 교육 (Apr 2023)
 - [주식회사 상화](https://www.sangwha.com) 전직원 AI 역량강화연수 - 최신 생성 AI 소개 및 가능성 탐구 (Mar 2023)
 - 패스트캠퍼스 [빵형의 수학 없이 뽀개는 인공지능 입문](https://fastcampus.co.kr/data_online_bbang2) (Dec 2022-Present)
 - 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
