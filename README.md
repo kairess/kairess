@@ -63,7 +63,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🔥 Latest Courses
 
 - 연세대학교 공학대학원 최신 생성AI 세미나 (Apr 2023)
-- 용인시 공무원 ChatGPT 업무활용 교육 (Apr 2023)
+- 용인시 공무원 [ChatGPT 업무활용 교육](https://www.asiae.co.kr/article/2023042107180029168) (Apr 2023)
 - [주식회사 상화](https://www.sangwha.com) 전직원 AI 역량강화연수 - 최신 생성 AI 소개 및 가능성 탐구 (Mar 2023)
 - 패스트캠퍼스 [빵형의 수학 없이 뽀개는 인공지능 입문](https://fastcampus.co.kr/data_online_bbang2) (Dec 2022-Present)
 - 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
