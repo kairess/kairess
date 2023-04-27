@@ -34,6 +34,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
 - AI Insight Talk (ep.1) [ChatGPT와 같은 생성 AI의 한계는 어디까지?](https://www.onoffmix.com/event/273954) (Apr 2023)
 - [사이언스슬램D](https://www.youtube.com/@ScienceSlamD) 연사 - ChatGPT를 키워드로 알아보는 인공지능 이야기 @세종과학예술영재학교, 국가과학기술연구회(NST), 기초과학연구원(IBS), (주)대덕넷 (Mar 2023)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
