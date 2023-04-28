@@ -35,8 +35,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📱 Social Activities
 
 - 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
-- AI Insight Talk (ep.1) [ChatGPT와 같은 생성 AI의 한계는 어디까지?](https://www.onoffmix.com/event/273954) (Apr 2023)
-- [사이언스슬램D](https://www.youtube.com/@ScienceSlamD) 연사 - ChatGPT를 키워드로 알아보는 인공지능 이야기 @세종과학예술영재학교, 국가과학기술연구회(NST), 기초과학연구원(IBS), (주)대덕넷 (Mar 2023)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 - [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
 - AI똑똑 패널 출연 - [AI 외주 프로젝트 천기누설](https://youtu.be/gyQ9d60KEMc), [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A), [3화](https://youtu.be/eITuFsvyAA0)
@@ -45,26 +43,15 @@ I❤️ code, Python and anything **CREATIVE**✨
 - [원티드 커뮤니티](https://www.wanted.co.kr/community/49) 인플루언서 (Sep 2021-Feb 2022)
 
 
-## 🙋🏻 Mentoring Programs
+## 🔥 Courses & Seminars
 
-- [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
-- 한국농수산식품유통공사 농산물 가격 변동률 예측 AI 경진대회 본선 멘토 (Oct 2022)
-- 광주정보문화산업진흥원 인공지능 콘텐츠 융합 창작랩(AICL) 멘토 (Oct 2022)
-- 광주정보문화산업진흥원 세상의 경계를 허무는 AI+콘텐츠 아이디어 공모전 심사위원 (Oct 2022)
-- 국립광주과학관 인공지능 탐구활동 성과발표회 평가위원 (Oct 2022)
-- 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022-Oct 2022)
-- 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-Present)
-- AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
-- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-Present)
-- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
-- [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
-- 비트캠프 인공지능 멘토 (2019)
-
-
-## 🔥 Latest Courses
-
+- [제2회 SPACE-S 포럼 연사/패널](https://www.youtube.com/live/A3_mmt9vfeo?feature=share) - BB Tech(Barrier Breaking Technology) 스마트 의족 (Apr 2023)
+- [AI항공우주연구회](https://www.hellodd.com/news/articleView.html?idxno=99740) 세미나 - 다양한 산업에서의
+인공지능 실증 사례 (Apr 2023)
 - 연세대학교 공학대학원 최신 생성AI 세미나 (Apr 2023)
 - 용인시 공무원 [ChatGPT 업무활용 교육](https://www.asiae.co.kr/article/2023042107180029168) (Apr 2023)
+- AI Insight Talk (ep.1) [ChatGPT와 같은 생성 AI의 한계는 어디까지?](https://www.onoffmix.com/event/273954) (Apr 2023)
+- [사이언스슬램D](https://www.youtube.com/@ScienceSlamD) 연사 - ChatGPT를 키워드로 알아보는 인공지능 이야기 @세종과학예술영재학교, 국가과학기술연구회(NST), 기초과학연구원(IBS), (주)대덕넷 (Mar 2023)
 - [주식회사 상화](https://www.sangwha.com) 전직원 AI 역량강화연수 - 최신 생성 AI 소개 및 가능성 탐구 (Mar 2023)
 - 패스트캠퍼스 [빵형의 수학 없이 뽀개는 인공지능 입문](https://fastcampus.co.kr/data_online_bbang2) (Dec 2022-Present)
 - 패스트캠퍼스 [차근차근 따라하는 수익형 웹 사이트 만들기](https://fastcampus.co.kr/dev_online_bbang1) (Nov 2022-Present)
@@ -98,6 +85,22 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 한국디지털미디어고등학교 비즈쿨 AI 캠프 강사 (2020)
 - [미래산업과학고등학교 컴퓨터특허과 강연](https://youtu.be/midsD2401Uk?t=12) (2020)
 - 현대 모비스 자동화 및 인공지능 특강 (2020)
+
+
+## 🙋🏻 Mentoring Programs
+
+- [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
+- 한국농수산식품유통공사 농산물 가격 변동률 예측 AI 경진대회 본선 멘토 (Oct 2022)
+- 광주정보문화산업진흥원 인공지능 콘텐츠 융합 창작랩(AICL) 멘토 (Oct 2022)
+- 광주정보문화산업진흥원 세상의 경계를 허무는 AI+콘텐츠 아이디어 공모전 심사위원 (Oct 2022)
+- 국립광주과학관 인공지능 탐구활동 성과발표회 평가위원 (Oct 2022)
+- 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022-Oct 2022)
+- 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-Present)
+- AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
+- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-Present)
+- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
+- [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
+- 비트캠프 인공지능 멘토 (2019)
 
 
 [![kairess's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairess&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/kairess)
