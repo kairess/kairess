@@ -34,7 +34,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
-- 2023 대한민국 과학축제 부스 참여 및 [라이브 방송](https://www.youtube.com/live/ZUdsW9Q0l_A?feature=share&t=136) w/에이아이프렌즈학회, 동명대학교 SW중심대학사업단 
+- 2023 대한민국 과학축제 부스 참여 및 [라이브 방송](https://www.youtube.com/live/ZUdsW9Q0l_A?feature=share&t=136) w/에이아이프렌즈학회, 동명대학교 SW중심대학사업단 (Apr 2023)
 - 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 - [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
