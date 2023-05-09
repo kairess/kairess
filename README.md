@@ -46,6 +46,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- [엠비아이솔루션](https://www.happytalk.io) 전직원 AI 역량강화연수 - LLM을 활용한 복합 비정형 데이터 처리 애플리케이션을 위한 최신 인공지능 기술의 이해와 실습 Vector Databases, LangChain (May 2023)
 - [제2회 SPACE-S 포럼 연사/패널](https://www.youtube.com/live/A3_mmt9vfeo?feature=share) - BB Tech(Barrier Breaking Technology) 스마트 의족 (Apr 2023)
 - [AI항공우주연구회](https://www.hellodd.com/news/articleView.html?idxno=99740) 세미나 - 다양한 산업에서의
 인공지능 실증 사례 (Apr 2023)
