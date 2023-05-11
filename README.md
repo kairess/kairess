@@ -91,6 +91,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 충청권 AI 전문가 멘토링 멘토/오리엔테이션 특강 (May 2023)
 - [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
 - 한국농수산식품유통공사 농산물 가격 변동률 예측 AI 경진대회 본선 멘토 (Oct 2022)
 - 광주정보문화산업진흥원 인공지능 콘텐츠 융합 창작랩(AICL) 멘토 (Oct 2022)
