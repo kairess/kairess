@@ -34,6 +34,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- 2023 [국제 현장 네트워크 포럼 토론 패널](https://cyan-lightning-42b.notion.site/All-of-us-are-in-Post-COVID19-Era-88371d20b32d46c29bba96dd4557a4e4) - 한국교원대학교 창의교육거점센터 (May 2023)
 - 2023 대한민국 과학축제 부스 참여 및 [라이브 방송](https://www.youtube.com/live/ZUdsW9Q0l_A?feature=share&t=136) w/에이아이프렌즈학회, 동명대학교 SW중심대학사업단 (Apr 2023)
 - 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
@@ -46,6 +47,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 스파르타코딩클럽 내일배움캠프 2기 졸업생 대상 특강 - 최신 생성 AI를 활용한 웹애플리케이션 실습 (May 2023)
 - [엠비아이솔루션](https://www.happytalk.io) 전직원 AI 역량강화연수 - LLM을 활용한 복합 비정형 데이터 처리 애플리케이션을 위한 최신 인공지능 기술의 이해와 실습 Vector Databases, LangChain (May 2023)
 - [제2회 SPACE-S 포럼 연사/패널](https://www.youtube.com/live/A3_mmt9vfeo?feature=share) - BB Tech(Barrier Breaking Technology) 스마트 의족 (Apr 2023)
 - [AI항공우주연구회](https://www.hellodd.com/news/articleView.html?idxno=99740) 세미나 - 다양한 산업에서의
