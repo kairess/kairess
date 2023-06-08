@@ -47,6 +47,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 부산시 [챗GPT(생성인공지능)로 세상을 바꾸다:생성인공지능의 이해와 활용](https://www.asiae.co.kr/article/2023051507411326455) (Jun 2023)
 - 인천 미추홀도서관 직무교육 - 챗GPT 도서관에서 활용하기 (May 2023)
 - 스파르타코딩클럽 내일배움캠프 2기 졸업생 대상 특강 - 최신 생성 AI를 활용한 웹애플리케이션 실습 (May 2023)
 - [엠비아이솔루션](https://www.happytalk.io) 전직원 AI 역량강화연수 - LLM을 활용한 복합 비정형 데이터 처리 애플리케이션을 위한 최신 인공지능 기술의 이해와 실습 Vector Databases, LangChain (May 2023)
