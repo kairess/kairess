@@ -47,6 +47,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- [ChatGPT를 활용한 Midjourney 프롬프트 엔지니어링](https://www.youtube.com/live/_Cw8VW0OBDQ?feature=share&t=2764) 세미나 - AI프렌즈
+- 대덕연구개발특구연계 AI교육 창의적 체험교실 - 대전 둔원고등학교 (Jun 2023)
 - 부산시 [챗GPT(생성인공지능)로 세상을 바꾸다:생성인공지능의 이해와 활용](https://www.asiae.co.kr/article/2023051507411326455) (Jun 2023)
 - 인천 미추홀도서관 직무교육 - 챗GPT 도서관에서 활용하기 (May 2023)
 - 스파르타코딩클럽 내일배움캠프 2기 졸업생 대상 특강 - 최신 생성 AI를 활용한 웹애플리케이션 실습 (May 2023)
