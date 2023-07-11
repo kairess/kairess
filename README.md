@@ -34,6 +34,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- [초거대 인공지능(AI) 활성화 오픈이노베이션](https://www.asiatoday.co.kr/view.php?key=20230703010000602) 연사 - 인천광역시, 인천테크노파크 (Jul 2023)
 - 2023 [국제 현장 네트워크 포럼 토론 패널](https://cyan-lightning-42b.notion.site/All-of-us-are-in-Post-COVID19-Era-88371d20b32d46c29bba96dd4557a4e4) - 한국교원대학교 창의교육거점센터 (May 2023)
 - 2023 대한민국 과학축제 부스 참여 및 [라이브 방송](https://www.youtube.com/live/ZUdsW9Q0l_A?feature=share&t=136) w/에이아이프렌즈학회, 동명대학교 SW중심대학사업단 (Apr 2023)
 - 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
@@ -47,7 +48,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
-- [ChatGPT를 활용한 Midjourney 프롬프트 엔지니어링](https://www.youtube.com/live/_Cw8VW0OBDQ?feature=share&t=2764) 세미나 - AI프렌즈
+- 2022 개정 교육과정 연계: AI-메타버스 융합교육 직무연수 - 서울여자대학교 (Jul 2023)
+- [ChatGPT를 활용한 Midjourney 프롬프트 엔지니어링](https://www.youtube.com/live/_Cw8VW0OBDQ?feature=share&t=2764) 세미나 - AI프렌즈 (Jun 2023)
 - 대덕연구개발특구연계 AI교육 창의적 체험교실 - 대전 둔원고등학교 (Jun 2023)
 - 부산시 [챗GPT(생성인공지능)로 세상을 바꾸다:생성인공지능의 이해와 활용](https://www.asiae.co.kr/article/2023051507411326455) (Jun 2023)
 - 인천 미추홀도서관 직무교육 - 챗GPT 도서관에서 활용하기 (May 2023)
