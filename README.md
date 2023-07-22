@@ -48,6 +48,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 생성형 AI가 가져올 미래, 챗GPT 활용 전략 세미나 - 경기도, 성남시, 경기콘텐츠진흥원, 판교경기문화창조허브 (Jul 2023)
+- [(주)클리오](https://clubclio.co.kr/) 전직원 생성형 AI 업무활용 특강 (Jul 2023)
 - 2022 개정 교육과정 연계: AI-메타버스 융합교육 직무연수 - 서울여자대학교 (Jul 2023)
 - [ChatGPT를 활용한 Midjourney 프롬프트 엔지니어링](https://www.youtube.com/live/_Cw8VW0OBDQ?feature=share&t=2764) 세미나 - AI프렌즈 (Jun 2023)
 - 대덕연구개발특구연계 AI교육 창의적 체험교실 - 대전 둔원고등학교 (Jun 2023)
