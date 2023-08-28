@@ -49,6 +49,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- AI프렌즈 세미나 - [긴급방송] [ChatGPT 파인튜닝 코드 공유 및 시연](https://www.youtube.com/live/3JNgRcvf2YA?si=RM9UqCT-4bto7UMU) (Aug 2023)
+- 부산시 [챗GPT(생성인공지능)로 세상을 바꾸다:생성인공지능의 이해와 활용](https://www.asiae.co.kr/article/2023051507411326455) 2차 (Aug 2023)
 - 생성형 AI가 가져올 미래, 챗GPT 활용 전략 세미나 - 경기도, 성남시, 경기콘텐츠진흥원, 판교경기문화창조허브 (Jul 2023)
 - [(주)클리오](https://clubclio.co.kr/) 전직원 생성형 AI 업무활용 특강 (Jul 2023)
 - 2022 개정 교육과정 연계: AI-메타버스 융합교육 직무연수 - 서울여자대학교 (Jul 2023)
