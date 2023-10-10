@@ -8,6 +8,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 💻 Technologies I Love
 
+- Quantum Computing
 - Machine Learning
 - Deep Learning
 - Image Processing
@@ -50,6 +51,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- AI 기술의 비즈니스 적용 (기술적 관점) - AI항공우주연구회, 대전 스타트업 모임 연사 (Oct 2023)
+- 한국교원대학교 2023년 제4차 초/중등 교장 자격연수 강사 (Oct 2023)
+- AI 기술의 비즈니스 적용 (기술적 관점) - AI 비즈니스 모델 캔버스 워크숍 연사 (Oct 2023)
 - K-Color와 인공지능 세미나 - [디지털 K-Color 서비스 개발 과정](https://www.facebook.com/jy.won.9/posts/pfbid0QnYedpfAHwuvMpCv9z3g7YNqxb2FhDouVM1rfPzdN3GRpx4Hu2jtFxBymuyh3T7sl) (Sep 2023)
 - AI프렌즈 세미나 - [긴급방송] [ChatGPT 파인튜닝 코드 공유 및 시연](https://www.youtube.com/live/3JNgRcvf2YA?si=RM9UqCT-4bto7UMU) (Aug 2023)
 - 부산시 [챗GPT(생성인공지능)로 세상을 바꾸다:생성인공지능의 이해와 활용](https://www.asiae.co.kr/article/2023051507411326455) 2차 (Aug 2023)
