@@ -1,4 +1,6 @@
-# Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+=======
 
 I❤️ code, Python and anything **CREATIVE**✨
 
