@@ -110,6 +110,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 인천과학예술영재학교 딥러닝을 활용한 당구공 궤도 예측 알고리즘 프로젝트 멘토 (Oct 2023)
+- 한국수자원공사 2023년 K-water 대국민 물 빅데이터 공모전 멘토 (Sep 2023)
 - 선박해양플랜트연구소(KRISO) 해양 AI 오픈 플랫폼 구축 자문위원 (Jul 2023)
 - 충청권 AI 전문가 멘토링 멘토/오리엔테이션 특강 (May 2023)
 - [포디블록 구조 추출 AI 경진대회 with 데이콘](https://dacon.io/competitions/official/236046/overview/description) 평가 심사위원 (Feb 2023)
