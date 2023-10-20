@@ -1,4 +1,4 @@
-# Hello world! I'm Brad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hello world! I'm Brad <img src="https://i.imgur.com/IaJ8HoP.gif" width="25">
 
 I❤️ code, Python and anything **CREATIVE**✨
 
@@ -51,6 +51,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- UST 과학기술연합대학원대학교 Tech Bridge 강사 (Oct 2023)
 - AI 기술의 비즈니스 적용 (기술적 관점) - AI항공우주연구회, 대전 스타트업 모임 연사 (Oct 2023)
 - 한국교원대학교 2023년 제4차 초/중등 교장 자격연수 강사 (Oct 2023)
 - AI 기술의 비즈니스 적용 (기술적 관점) - AI 비즈니스 모델 캔버스 워크숍 연사 (Oct 2023)
