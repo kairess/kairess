@@ -1,4 +1,4 @@
-# Hello world! I'm Brad <img src="https://i.imgur.com/IaJ8HoP.gif" width="25">
+# Hello world! I'm Brad👋
 
 I❤️ code, Python and anything **CREATIVE**✨
 
