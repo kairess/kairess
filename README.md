@@ -52,6 +52,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 한국생산기술연구원 - 디지털 신기술 기반 엔지니어링 분야와의 융합 사례 소개 세미나 (Nov 2023)
 - UST 과학기술연합대학원대학교 Tech Bridge 강사 (Oct 2023)
 - AI 기술의 비즈니스 적용 (기술적 관점) - AI항공우주연구회, 대전 스타트업 모임 연사 (Oct 2023)
 - 한국교원대학교 2023년 제4차 초/중등 교장 자격연수 강사 (Oct 2023)
