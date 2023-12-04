@@ -35,6 +35,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- [Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376) (Dec 2023)
 - 2023 [케이녹 IR 데모데이](https://newsis.com/view/?id=NISX20231027_0002498800) 최우수상 수상 - 문화체육관광부, 한국콘텐츠진흥원 (Oct 2023)
 - 2023 K-ICT Week in Busan 컨퍼런스 연사 - [Generative AI와 영화, 드라마 제작 미래](https://www.etnews.com/20230824000003) (Sep 2023)
 - [한국과학창의재단](https://www.kofac.re.kr) 과학문화 민간 네트워크 워크숍 토론위원 - 생성AI를 활용하여 과학문화 콘텐츠를? (2023)
