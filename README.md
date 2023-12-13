@@ -53,6 +53,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 2023년 제3차 실용인공지능 학술대회 AAiCON2023 - 생성AI를 활용한 디지털 K-Color 서비스 개발 구두 발표 (Dec 2023)
 - 한국컬러유니버설디자인협회(KCUD) 세미나 연사 - 생성AI를 활용한 디지털 K-Color 서비스 개발 (Dec 2023)
 - 2023 센텀디지털위크 연사 - 최신 생성AI 소개 및 가능성 탐구 (Nov 2023)
 - 한국생산기술연구원 - 디지털 신기술 기반 엔지니어링 분야와의 융합 사례 소개 세미나 (Nov 2023)
