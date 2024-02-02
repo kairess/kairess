@@ -1,4 +1,4 @@
-# Hello world! I'm Brad👋
+![image](https://github.com/kairess/kairess/assets/5242555/c1bd504c-9ff9-4292-b93a-a7753edf39b6)# Hello world! I'm Brad👋
 
 I❤️ code, Python and anything **CREATIVE**✨
 
@@ -53,6 +53,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 현장에서 바라보는 생성형 AI와 미래 인재 - 대구일과학고등학교 전교사 AI/SW 연수 (Feb 2024)
 - 학교 수업을 위한 D.N.A.와 생성형 AI, 그리고 에듀테크 연사 - 한국교원대학교 창의교육거점센터 (Jan 2024)
 - 2023년 제3차 실용인공지능 학술대회 AAiCON2023 - 생성AI를 활용한 디지털 K-Color 서비스 개발 구두 발표 (Dec 2023)
 - 한국컬러유니버설디자인협회(KCUD) 세미나 연사 - 생성AI를 활용한 디지털 K-Color 서비스 개발 (Dec 2023)
@@ -118,6 +119,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 충남대학교 디지털물산업분야 혁신인재 양성사업 전문가 멘토 (Feb 2024)
 - 인천과학예술영재학교 딥러닝을 활용한 당구공 궤도 예측 알고리즘 프로젝트 멘토 (Oct 2023)
 - 한국수자원공사 2023년 K-water 대국민 물 빅데이터 공모전 멘토 (Sep 2023)
 - 선박해양플랜트연구소(KRISO) 해양 AI 오픈 플랫폼 구축 자문위원 (Jul 2023)
