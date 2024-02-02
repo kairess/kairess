@@ -1,4 +1,4 @@
-![image](https://github.com/kairess/kairess/assets/5242555/c1bd504c-9ff9-4292-b93a-a7753edf39b6)# Hello world! I'm Brad👋
+# Hello world! I'm Brad👋
 
 I❤️ code, Python and anything **CREATIVE**✨
 
