@@ -53,6 +53,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- AutoGPT : 인공지능의 미래와 창의적 응용 - 제9회 INNOPOLIS SPACE-S Meet-Up Day (Feb 2024)
 - 현장에서 바라보는 생성형 AI와 미래 인재 - 대구일과학고등학교 전교사 AI/SW 연수 (Feb 2024)
 - 학교 수업을 위한 D.N.A.와 생성형 AI, 그리고 에듀테크 연사 - 한국교원대학교 창의교육거점센터 (Jan 2024)
 - 2023년 제3차 실용인공지능 학술대회 AAiCON2023 - 생성AI를 활용한 디지털 K-Color 서비스 개발 구두 발표 (Dec 2023)
