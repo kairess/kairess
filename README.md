@@ -55,7 +55,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🔥 Courses & Seminars
 
 - 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX 구두 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
-- 동물상징을 활용한 아동, 청소년 학대진단 챗봇 포스터 발표 - 실용인공지능 학술대회 AAiCON2024(Jun 2024)
+- 동물상징을 활용한 아동, 청소년 학대진단 챗봇 포스터 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
 - AutoGPT : 인공지능의 미래와 창의적 응용 - 제9회 INNOPOLIS SPACE-S Meet-Up Day (Feb 2024)
 - 현장에서 바라보는 생성형 AI와 미래 인재 - 대구일과학고등학교 전교사 AI/SW 연수 (Feb 2024)
 - 학교 수업을 위한 D.N.A.와 생성형 AI, 그리고 에듀테크 연사 - 한국교원대학교 창의교육거점센터 (Jan 2024)
