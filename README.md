@@ -35,6 +35,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- Udemy 인플루언서 (Jul 2024-Present)
 - [Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376) (Dec 2023)
 - 2023 [케이녹 IR 데모데이](https://newsis.com/view/?id=NISX20231027_0002498800) 최우수상 수상 - 문화체육관광부, 한국콘텐츠진흥원 (Oct 2023)
 - 2023 K-ICT Week in Busan 컨퍼런스 연사 - [Generative AI와 영화, 드라마 제작 미래](https://www.etnews.com/20230824000003) (Sep 2023)
@@ -53,6 +54,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX 구두 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
+- 동물상징을 활용한 아동, 청소년 학대진단 챗봇 포스터 발표 - 실용인공지능 학술대회 AAiCON2024(Jun 2024)
 - AutoGPT : 인공지능의 미래와 창의적 응용 - 제9회 INNOPOLIS SPACE-S Meet-Up Day (Feb 2024)
 - 현장에서 바라보는 생성형 AI와 미래 인재 - 대구일과학고등학교 전교사 AI/SW 연수 (Feb 2024)
 - 학교 수업을 위한 D.N.A.와 생성형 AI, 그리고 에듀테크 연사 - 한국교원대학교 창의교육거점센터 (Jan 2024)
