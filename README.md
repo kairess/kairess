@@ -54,6 +54,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 한국수자원공사 물산업의 거대인공지능 모델 활용 강의 - LangChain을 활용한 RAG 이론 및 구축 실습 (Aug 2024)
+- 인공일반지능으로 가는길 웨비나 연사 - 최신 생성형 AI 소개 및 가능성 탐구 (Aug 2024)
 - 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX 구두 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
 - 동물상징을 활용한 아동, 청소년 학대진단 챗봇 포스터 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
 - AutoGPT : 인공지능의 미래와 창의적 응용 - 제9회 INNOPOLIS SPACE-S Meet-Up Day (Feb 2024)
