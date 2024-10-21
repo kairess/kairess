@@ -1,4 +1,4 @@
-# Hello world! I'm Brad👋
+# Hello world! I'm Brad 빵형👋
 
 I❤️ code, Python and anything **CREATIVE**✨
 
@@ -54,6 +54,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 한국원자력연구원 - 다양한 API 활용을 위한 Python 기초와 활용 (Oct 2024)
 - 한국수자원공사 물산업의 거대인공지능 모델 활용 강의 - LangChain을 활용한 RAG 이론 및 구축 실습 (Aug 2024)
 - 인공일반지능으로 가는길 웨비나 연사 - 최신 생성형 AI 소개 및 가능성 탐구 (Aug 2024)
 - 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX 구두 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
@@ -125,6 +126,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 보건복지부, 한국보건산업진흥원 - 2024 의료 인공지능 아이디어 경진대회 데이터 분야 멘토 (Oct 2024)
 - 스파르타코딩클럽 내일배움캠프 AI 트랙 멘토 (Sep 2024 - Oct 2024)
 - 충남대학교 디지털물산업분야 혁신인재 양성사업 전문가 멘토 (Feb 2024)
 - 인천과학예술영재학교 딥러닝을 활용한 당구공 궤도 예측 알고리즘 프로젝트 멘토 (Oct 2023)
