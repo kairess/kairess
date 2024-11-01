@@ -35,6 +35,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- 한국데이터산업진흥원 - 데이터산업 현황조사 통계기획 관련 자문위원 (Sep 2024)
 - Udemy 인플루언서 (Jul 2024-Present)
 - [Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376) (Dec 2023)
 - 2023 [케이녹 IR 데모데이](https://newsis.com/view/?id=NISX20231027_0002498800) 최우수상 수상 - 문화체육관광부, 한국콘텐츠진흥원 (Oct 2023)
