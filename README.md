@@ -9,12 +9,10 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 💻 Technologies I Love
 
 - Quantum Computing
-- Machine Learning
-- Deep Learning
+- Generative AI
+- Machine Learning/Deep Learning
 - Image Processing
-- Data Science
 - Backend Web Development
-- Growth Hacking
 
 
 ## 🤐 Programming Languages
@@ -24,13 +22,18 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🏢 I'm currently working at **[The Matrix](https://www.m47rix.com)**
-- 한국교원대학교 AI융합전공대학원 겸임강사
-- 충남대학교 디지털물산업인공지능융합전공 겸임강사
-- 🌍 YouTuber [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
-- ⚙️ I love to create creative A.I. solutions.
-- 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 💉 Surprise: I'm a huge fan of Bloodborne and From Software games. Fear the old blood.
+- 🏢 Currently working at [The Matrix](https://www.m47rix.com) & [OPIM Digital](http://opimdigital.com)
+- Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합전공대학원 겸임강사)
+- Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (충남대학교 디지털물산업인공지능융합전공 겸임강사)
+🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
+💬 Passionate about discussing business ideas and development - feel free to reach out!
+💉 Fun fact: Huge fan of Bloodborne and FromSoftware games. Fear the old blood!
+
+
+## 🎬 Filmography
+
+- [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
+- [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
 
 
 ## 📱 Social Activities
@@ -55,6 +58,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 한국교원대학교 지리교육과 김영훈 교수님이 초대하는 특강 "최신 생성형 AI 소개 및 가능성 탐구" (Dec 2024)
 - 한국원자력연구원 - 다양한 API 활용을 위한 Python 기초와 활용 (Oct 2024)
 - 한국수자원공사 물산업의 거대인공지능 모델 활용 강의 - LangChain을 활용한 RAG 이론 및 구축 실습 (Aug 2024)
 - 인공일반지능으로 가는길 웨비나 연사 - 최신 생성형 AI 소개 및 가능성 탐구 (Aug 2024)
