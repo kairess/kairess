@@ -25,9 +25,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 🏢 Currently working at [The Matrix](https://www.m47rix.com) & [OPIM Digital](http://opimdigital.com)
 - Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합전공대학원 겸임강사)
 - Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (충남대학교 디지털물산업인공지능융합전공 겸임강사)
-🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
-💬 Passionate about discussing business ideas and development - feel free to reach out!
-💉 Fun fact: Huge fan of Bloodborne and FromSoftware games. Fear the old blood!
+- 🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
+- 💬 Passionate about discussing business ideas and development - feel free to reach out!
+- 💉 Fun fact: Huge fan of Bloodborne and FromSoftware games. Fear the old blood!
 
 
 ## 🎬 Filmography
