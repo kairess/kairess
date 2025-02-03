@@ -32,12 +32,14 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🎬 Filmography
 
+- [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
 - [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
 - [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
 
 
 ## 📱 Social Activities
 
+- [2024 GALA 패스트캠퍼스 AI 공모전](https://fastcampus.co.kr/gala2024_ended), 심사위원 특별상 수상 - 베이비 노트: 아기의 수유, 수면, 배변 활동을 음성으로 기록하고 관리하는 육아 도우미 앱 (Jan 2025)
 - 한국데이터산업진흥원 - 데이터산업 현황조사 통계기획 관련 자문위원 (Sep 2024)
 - Udemy 인플루언서 (Jul 2024-Present)
 - [Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376) (Dec 2023)
