@@ -32,6 +32,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🎬 Filmography
 
+- [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
 - [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
 - [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
 - [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
