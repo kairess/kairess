@@ -40,6 +40,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- 제8회 칸 국제 시리즈 페스티벌 (CANNESERIES) AI 테크니컬 스크리닝 및 발표: Leveraging Generative AI for Documentary Storytelling - 과학기술정보통신부, 한국방송통신전파진흥원 (Apr 2025)
 - [2024 GALA 패스트캠퍼스 AI 공모전](https://fastcampus.co.kr/gala2024_ended), 심사위원 특별상 수상 - 베이비 노트: 아기의 수유, 수면, 배변 활동을 음성으로 기록하고 관리하는 육아 도우미 앱 (Jan 2025)
 - 한국데이터산업진흥원 - 데이터산업 현황조사 통계기획 관련 자문위원 (Sep 2024)
 - Udemy 인플루언서 (Jul 2024-Present)
