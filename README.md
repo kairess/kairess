@@ -25,7 +25,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 🏢 Currently working at [OPIM Digital](http://opimdigital.com) as CTO
 - Ph.D. in Integrated Medicine (In Progress), Yonsei University (Medical Imaging Artificial Intelligence Laboratory)
 - Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합교육대학원 겸임강사)
-- Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (충남대학교 디지털물산업인공지능융합전공 겸임강사)
+- AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
 - 💬 Passionate about discussing business ideas and development - feel free to reach out!
 - 💉 Fun fact: Huge fan of Bloodborne and FromSoftware games. Fear the old blood!
@@ -63,6 +63,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (前충남대학교 디지털물산업인공지능융합전공 겸임강사)
 - 한성대학교 스마트도시 캡스톤 디자인 - 영상 생성형 AI 활용 및 한계 (Sep 2025)
 - AI와 콘텐츠 혁명 : AI가 가져올 영상 제작 환경의 미래 연사, 오핌디지털 세미나 (Jun 2025)
 - KOBA 2025 제33회 국제 방송·미디어·음향·조명 전시회 미디어 컨퍼런스 연사 - 생성형 AI의 활용 사례 총정리 : 콘텐츠 제작의 혁신과 그 너머 (May 2025)
@@ -153,9 +154,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 광주정보문화산업진흥원 세상의 경계를 허무는 AI+콘텐츠 아이디어 공모전 심사위원 (Oct 2022)
 - 국립광주과학관 인공지능 탐구활동 성과발표회 평가위원 (Oct 2022)
 - 인천과학예술영재학교 진화신경망 효율성 비교 연구 프로젝트 멘토 (Sep 2022-Oct 2022)
-- 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-Present)
+- 스파르타코딩클럽 내일배움캠프 AI 트랙 최종프로젝트 심사위원 (Aug 2022-2025)
 - AI 과학자와 함께하는 멘토링 프로그램 IT/컴퓨터비전 멘토 (May 2022)
-- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-Present)
+- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022-2025)
 - 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
 - 비트캠프 인공지능 멘토 (2019)
