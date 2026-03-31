@@ -8,7 +8,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 💻 Technologies I Love
 
-- Quantum Computing
+- Medical Imaging Analysis
 - Generative AI
 - Machine Learning/Deep Learning
 - Image Processing
@@ -140,6 +140,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 2025 광명시 코딩 경진대회 심사위원 (Sep 2025)
 - 보건복지부, 한국보건산업진흥원 - 2024 의료 인공지능 아이디어 경진대회 데이터 분야 멘토 (Oct 2024)
 - 스파르타코딩클럽 내일배움캠프 AI 트랙 멘토 (Sep 2024 - Oct 2024)
@@ -161,5 +162,3 @@ I❤️ code, Python and anything **CREATIVE**✨
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
 - 비트캠프 인공지능 멘토 (2019)
 
-
-[![kairess's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairess&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/kairess)
