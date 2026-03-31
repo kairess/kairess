@@ -8,7 +8,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 💻 Technologies I Love
 
-- Medical Imaging Analysis
+- AI-driven Medical Image Analysis
 - Generative AI
 - Machine Learning/Deep Learning
 - Image Processing
