@@ -41,6 +41,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- 제2회 AI Hack Camp 2026 멘토 및 심사위원 (May 2026)
 - 제8회 칸 국제 시리즈 페스티벌 (CANNESERIES) AI 테크니컬 스크리닝 및 발표: Leveraging Generative AI for Documentary Storytelling - 과학기술정보통신부, 한국방송통신전파진흥원 (Apr 2025)
 - [2024 GALA 패스트캠퍼스 AI 공모전](https://fastcampus.co.kr/gala2024_ended), 심사위원 특별상 수상 - 베이비 노트: 아기의 수유, 수면, 배변 활동을 음성으로 기록하고 관리하는 육아 도우미 앱 (Jan 2025)
 - 한국데이터산업진흥원 - 데이터산업 현황조사 통계기획 관련 자문위원 (Sep 2024)
@@ -63,6 +64,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
+- 한국원자력연구원 AI집중위크 - 시계열 데이터 분석 기초 및 실습 with PyTorch 강사 (May 2026)
+- 호서대학교 컴퓨터공학과 강연 및 졸업 프로젝트 멘토링 (May 2026)
 - Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (前충남대학교 디지털물산업인공지능융합전공 겸임강사)
 - 한성대학교 스마트도시 캡스톤 디자인 - 영상 생성형 AI 활용 및 한계 (Sep 2025)
 - AI와 콘텐츠 혁명 : AI가 가져올 영상 제작 환경의 미래 연사, 오핌디지털 세미나 (Jun 2025)
