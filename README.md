@@ -15,28 +15,21 @@ I❤️ code, Python and anything **CREATIVE**✨
 - Backend Web Development
 
 
-## 🤐 Programming Languages
-
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-
-
 ## 📘 Bio
 
 - 🏢 Currently working at [OPIM Digital](http://opimdigital.com) as CTO
 - Ph.D. in Integrated Medicine (In Progress), Yonsei University (Medical Imaging Artificial Intelligence Laboratory)
+- Director, AIFrenz (사단법인 에이아이프렌즈학회 이사) (Jun 2026-Present)
 - Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합교육대학원 겸임강사)
 - AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
 - 💬 Passionate about discussing business ideas and development - feel free to reach out!
 - 💉 Fun fact: Huge fan of Bloodborne and FromSoftware games. Fear the old blood!
 
+## Publications & Presentations
 
-## 🎬 Filmography
-
-- [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
-- [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
-- [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
-- [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
+- 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Oral presentation)
+- [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 
 
 ## 📱 Social Activities
@@ -54,7 +47,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 2023 [국제 현장 네트워크 포럼 토론 패널](https://cyan-lightning-42b.notion.site/All-of-us-are-in-Post-COVID19-Era-88371d20b32d46c29bba96dd4557a4e4) - 한국교원대학교 창의교육거점센터 (May 2023)
 - 2023 대한민국 과학축제 부스 참여 및 [라이브 방송](https://www.youtube.com/live/ZUdsW9Q0l_A?feature=share&t=136) w/에이아이프렌즈학회, 동명대학교 SW중심대학사업단 (Apr 2023)
 - 에이아이프렌즈학회 [창의AI연구회](https://www.notion.so/aifrenz/AI-4fe1e334ffbe4cb4924d1caa3f7cd8b0) 부위원장 (Mar 2023-Present)
-- [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 - [CES](https://www.ces.tech) 2023 [Scholarship Journalist](https://youtu.be/ScdDS6Mci5A) in Las Vegas
 - AI똑똑 패널 출연 - [AI 외주 프로젝트 천기누설](https://youtu.be/gyQ9d60KEMc), [1화](https://youtu.be/gE8z5Hk_dO8), [2화](https://youtu.be/BLAOSN7B_0A), [3화](https://youtu.be/eITuFsvyAA0)
 - 2022 AI페스티벌 연사 - [나만의 부캐 in Metaverse](https://youtu.be/EhMi1IaxotQ?t=3749) (Jul 2022)
@@ -164,4 +156,12 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
 - [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
 - 비트캠프 인공지능 멘토 (2019)
+
+
+## 🎬 Filmography
+
+- [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
+- [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
+- [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
+- [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
 
