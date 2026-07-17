@@ -29,8 +29,11 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## Publications & Presentations
 
 - LLM 에이전트 기반 학술 논문 집필의 실제와 한계 - [이슈 페이퍼, 2026.7 제2호 'AI 에이전트와 교육현장의 변화'](https://jkf87.github.io/aifrenz-ebook/issue-02.html)
-- 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Oral presentation)
-- [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
+- 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Jun 2026, Oral presentation)
+- 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX - AAiCON2024 (Jun 2024, Oral presentation)
+- 동물상징을 활용한 아동, 청소년 학대진단 챗봇 - AAiCON 2024 (Jun 2024, Poster presentation)
+- 생성AI를 활용한 디지털 K-Color 서비스 개발 - AAiCON 2023 (Dec 2023, Oral presentation)
+- [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 - [AAiCON 2023](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) (Feb 2023)
 
 
 ## 📱 Social Activities
@@ -67,12 +70,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 한국원자력연구원 - 다양한 API 활용을 위한 Python 기초와 활용 (Oct 2024)
 - 한국수자원공사 물산업의 거대인공지능 모델 활용 강의 - LangChain을 활용한 RAG 이론 및 구축 실습 (Aug 2024)
 - 인공일반지능으로 가는길 웨비나 연사 - 최신 생성형 AI 소개 및 가능성 탐구 (Aug 2024)
-- 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX 구두 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
-- 동물상징을 활용한 아동, 청소년 학대진단 챗봇 포스터 발표 - 실용인공지능 학술대회 AAiCON2024 (Jun 2024)
 - AutoGPT : 인공지능의 미래와 창의적 응용 - 제9회 INNOPOLIS SPACE-S Meet-Up Day (Feb 2024)
 - 현장에서 바라보는 생성형 AI와 미래 인재 - 대구일과학고등학교 전교사 AI/SW 연수 (Feb 2024)
 - 학교 수업을 위한 D.N.A.와 생성형 AI, 그리고 에듀테크 연사 - 한국교원대학교 창의교육거점센터 (Jan 2024)
-- 2023년 제3차 실용인공지능 학술대회 AAiCON2023 - 생성AI를 활용한 디지털 K-Color 서비스 개발 구두 발표 (Dec 2023)
 - 한국컬러유니버설디자인협회(KCUD) 세미나 연사 - 생성AI를 활용한 디지털 K-Color 서비스 개발 (Dec 2023)
 - 2023 센텀디지털위크 연사 - 최신 생성AI 소개 및 가능성 탐구 (Nov 2023)
 - 한국생산기술연구원 - 디지털 신기술 기반 엔지니어링 분야와의 융합 사례 소개 세미나 (Nov 2023)
