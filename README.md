@@ -28,6 +28,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## Publications & Presentations
 
+- LLM 에이전트 기반 학술 논문 집필의 실제와 한계 - [이슈 페이퍼, 2026.7 제2호 'AI 에이전트와 교육현장의 변화'](https://jkf87.github.io/aifrenz-ebook/issue-02.html)
 - 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Oral presentation)
 - [2023년 제2차 실용 인공지능 학술대회](https://aifrenz.notion.site/2023-2-d0181ac65149461cba3c5fa4271b0128) - [AI와 예술 워크숍](https://aifrenz.notion.site/AI-Generative-AI-8a5d1d7097d044a9953051f729f92464) 프로그램 위원 (Feb 2023)
 
