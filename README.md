@@ -137,6 +137,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
+- 2026 KBSI AI 융합 실증 파트너 프로그램 멘토 (Aug 2026)
 - AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 2025 광명시 코딩 경진대회 심사위원 (Sep 2025)
 - 보건복지부, 한국보건산업진흥원 - 2024 의료 인공지능 아이디어 경진대회 데이터 분야 멘토 (Oct 2024)
