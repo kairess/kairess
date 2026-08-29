@@ -27,8 +27,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## Publications & Presentations
 
+- Region-Wise Intensity Modulation for Cross-Sequence Cerebral Microbleed Detection on T2*-GRE and SWI - [ICMRI 2026](https://icmri.ksmrm.org/2026m) (Aug 2026, Oral presentation)
 - LLM 에이전트 기반 학술 논문 집필의 실제와 한계 - [이슈 페이퍼, 2026.7 제2호 'AI 에이전트와 교육현장의 변화'](https://jkf87.github.io/aifrenz-ebook/issue-02.html)
-- 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Jun 2026, Oral presentation)
+- 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Jun 2026, Oral presentation, Best paper)
 - 생성형 AI 기반 영상 시각효과 제작 플랫폼: Generative VFX - AAiCON2024 (Jun 2024, Oral presentation)
 - 동물상징을 활용한 아동, 청소년 학대진단 챗봇 - AAiCON 2024 (Jun 2024, Poster presentation)
 - 생성AI를 활용한 디지털 K-Color 서비스 개발 - AAiCON 2023 (Dec 2023, Oral presentation)
