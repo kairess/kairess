@@ -27,6 +27,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## Publications & Presentations
 
+- What an atlas-fitted connectome can and cannot do: evolutionary search over interneuron stimulation in a whole-body C. elegans model (Sep 2026, [preprint](https://doi.org/10.64898/2026.09.06.749731))
 - Region-Wise Intensity Modulation for Cross-Sequence Cerebral Microbleed Detection on T2*-GRE and SWI - [ICMRI 2026](https://icmri.ksmrm.org/2026m) (Aug 2026, Oral presentation)
 - LLM 에이전트 기반 학술 논문 집필의 실제와 한계 - [이슈 페이퍼, 2026.7 제2호 'AI 에이전트와 교육현장의 변화'](https://jkf87.github.io/aifrenz-ebook/issue-02.html)
 - 한국어 문장 문법 기반 딥러닝 DSL 설계: 한국어 서술 구조를 활용한 신경망 기술 언어 및 실행 환경 - [AAiCON 2026](https://aifrenz.org/aaicon26) (Jun 2026, Oral presentation, Best paper)
