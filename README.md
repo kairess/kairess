@@ -27,7 +27,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## Publications & Presentations
 
-- From Detection to Knowledge: Hybrid Object Detection, Language, and Vision-Language Modeling for P&ID Knowledge Graph Construction - Ai4Sci 2026 (Sep 2026 · Oral presentation)
+- From Detection to Knowledge: Hybrid Object Detection, Language, and Vision-Language Modeling for P&ID Knowledge Graph Construction - [AI4Sci Korea 2026](https://ai4scikorea.org) (Sep 2026 · Oral presentation)
 - What an atlas-fitted connectome can and cannot do: evolutionary search over interneuron stimulation in a whole-body C. elegans model (Sep 2026 · [preprint](https://doi.org/10.64898/2026.09.06.749731))
 - Region-Wise Intensity Modulation for Cross-Sequence Cerebral Microbleed Detection on T2*-GRE and SWI - [ICMRI 2026](https://icmri.ksmrm.org/2026m) (Aug 2026 · Oral presentation)
 - LLM 에이전트 기반 학술 논문 집필의 실제와 한계 - [이슈 페이퍼, 2026.7 제2호 'AI 에이전트와 교육현장의 변화'](https://jkf87.github.io/aifrenz-ebook/issue-02.html)
