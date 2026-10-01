@@ -40,6 +40,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📱 Social Activities
 
+- [2026 NAIS AI 해커톤](https://www.nst.re.kr/www/selectBbsNttView.do?bbsNo=16&key=57&nttNo=51804) 멘토 및 심사위원 (Sep 2026)
 - 제18회 [코드게이트 AI 스타트업 해커톤](https://eduhancom.com/) 토크콘서트 연사 (Jul 2026)
 - [AI Hack Camp 2026](https://www.hellodd.com/news/articleView.html?idxno=111835) 멘토 및 심사위원 (May 2026)
 - 제8회 칸 국제 시리즈 페스티벌 (CANNESERIES) AI 테크니컬 스크리닝 및 발표: Leveraging Generative AI for Documentary Storytelling - 과학기술정보통신부, 한국방송통신전파진흥원 (Apr 2025)
