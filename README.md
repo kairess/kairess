@@ -64,7 +64,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Courses & Seminars
 
-- 한국원자력연구원 AI집중위크 - 시계열 데이터 분석 기초 및 실습 with PyTorch 강사 (May 2026)
+- 한국원자력연구원 AI집중연수 - 딥러닝을 활용한 시각 데이터 분석 기초 및 실습 강사 (Oct 2026)
+- 한국원자력연구원 AI집중연수 - 시계열 데이터 분석 기초 및 실습 with PyTorch 강사 (May 2026)
 - 호서대학교 컴퓨터공학과 강연 및 졸업 프로젝트 멘토링 (May 2026)
 - Adjunct Professor, Digital Water Industry & AI Convergence at Chungnam National University (前충남대학교 디지털물산업인공지능융합전공 겸임강사)
 - 한성대학교 스마트도시 캡스톤 디자인 - 영상 생성형 AI 활용 및 한계 (Sep 2025)
