@@ -17,7 +17,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- Ph.D. in Integrative Medicine (In Progress), Yonsei University (HEART Lab)
+- Ph.D. in Medical Physics (In Progress), Yonsei University (HEART Lab)
 - Director, AIFrenz (사단법인 에이아이프렌즈학회 이사) (Jun 2026-Present)
 - Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합교육대학원 겸임강사)
 - AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
@@ -141,7 +141,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🙋🏻 Mentoring Programs
 
-- 2026 KBSI AI 융합 실증 파트너 프로그램 멘토 (Aug 2026-Oct 2026)
+- 2026 KBSI AI 융합 실증 파트너 프로그램 멘토 (Aug 2026-Nov 2026)
 - AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 2025 광명시 코딩 경진대회 심사위원 (Sep 2025)
 - 보건복지부, 한국보건산업진흥원 - 2024 의료 인공지능 아이디어 경진대회 데이터 분야 멘토 (Oct 2024)
@@ -167,6 +167,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🎬 Filmography
 
+- The Birth of Lily ([Anime ver.](https://youtu.be/lgJfmgYJLhc) / [Live-action ver.](https://youtu.be/t_Nb-Xx1yME)) (2026) - Director
 - [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
 - [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
 - [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
