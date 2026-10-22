@@ -168,8 +168,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🎬 Filmography
 
 - The Birth of Lily ([Anime ver.](https://youtu.be/lgJfmgYJLhc) / [Live-action ver.](https://youtu.be/t_Nb-Xx1yME)) (2026) - Director
+- [Tales of Glimmith](https://youtu.be/A8jC71NQoqM?si=UWXyWmnb78jwjah6) (2026) - Writer
 - [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
 - [Rotkäppchen](https://youtu.be/mfnP8Y6Hyv0) 빨간 모자 (2024) - Director
 - [輪迴劫](https://youtu.be/cjXB7k1kJxw) 윤회겁 The Samsara Kalpa (2024) - Director
 - [The Bloody Scarlette](https://youtu.be/oycG_Opza88) (2024) - Director
-
