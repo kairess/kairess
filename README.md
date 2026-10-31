@@ -18,7 +18,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📘 Bio
 
 - Ph.D. in Medical Physics (In Progress), Yonsei University (HEART Lab)
-- Director, AIFrenz (사단법인 에이아이프렌즈학회 이사) (Jun 2026-Present)
+- Board Director, AIFrenz (사단법인 에이아이프렌즈학회 이사) (Jun 2026-Present)
 - Adjunct Professor, AI Convergence Graduate School at Korea National University of Education (한국교원대학교 AI융합교육대학원 겸임강사)
 - AI·SW마에스트로 멘토, 한국정보산업연합회 (Apr 2024-Present)
 - 🌍 Creator of YouTube Channel [빵형의 개발도상국](https://www.youtube.com/@bbanghyong)
