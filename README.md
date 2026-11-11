@@ -167,6 +167,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🎬 Filmography
 
+- [승인만 하시면 됩니다](https://youtu.be/jf5Mitw7vJA) (2026) - Director
 - The Birth of Lily ([Anime ver.](https://youtu.be/lgJfmgYJLhc) / [Live-action ver.](https://youtu.be/t_Nb-Xx1yME)) (2026) - Director
 - [Tales of Glimmith](https://youtu.be/A8jC71NQoqM?si=UWXyWmnb78jwjah6) (2026) - Writer
 - [Frostbound Legacy](https://youtu.be/1HhNOddXUqc) (2025) - Director
